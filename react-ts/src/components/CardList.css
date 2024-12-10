@@ -1,0 +1,5 @@
+.card-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3열 */
+  gap: 16px; /* 각 카드 간의 간격 */
+}
